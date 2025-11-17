@@ -1,9 +1,5 @@
 
 
-<div align="center">
-<img width="650" height="1020" alt="image" src="https://github.com/user-attachments/assets/ab33b3d1-044d-4300-a5b2-f9067deb1e1e" />
-</div>
-
 ## 📌 Overview
 This project focuses on building a small, isolated network environment to analyze real-world traffic behavior using a GL-SFT1200 router and a TL-SG105E smart switch. I used my laptop as the primary endpoint for packet capture, monitoring, and testing. The goal was to observe how routing, encrypted tunnels, and traffic patterns behave in a controlled network using tools like Wireshark and ntopng.
 
@@ -32,6 +28,21 @@ Although my hardware limited me to a single client device, this lab still allowe
 - **OpenVPN**
 - **Tor Routing Mode**
 - **Ethernet connection for direct switch testing**
+
+---
+
+## 🎥 YouTube Videos
+
+I also recorded a few YouTube videos that go along with this project.  
+These videos explain:
+
+- Why I built this networking lab  
+- What tools I used  
+- How packet captures look in Wireshark  
+- How traffic flows show up in ntopng  
+
+**You can watch my videos here:**  
+[YouTube Playlist – Networking Lab](https://www.youtube.com/playlist?list=PL866gqucOoCS6bdTRmS_JXI78goIkXs1N)
 
 ---
 
