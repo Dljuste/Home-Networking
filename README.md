@@ -37,6 +37,6 @@ Although my hardware limited me to a single client device, this lab still allowe
 
 **More documentation:**  
 - [Setup](setup.md)  
-- [Tools Used](TOOLS.md)  
+- [Tools Used](tools.md)  
 - [Results & What I Learned](RESULTS.md)  
 - [Screenshots](SCREENSHOTS.md)
