@@ -1,4 +1,4 @@
-# Networking Lab: Secure Routing, Monitoring, and Traffic Analysis
+
 
 <div align="center">
 <img width="650" height="1020" alt="image" src="https://github.com/user-attachments/assets/ab33b3d1-044d-4300-a5b2-f9067deb1e1e" />
